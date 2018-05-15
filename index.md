@@ -2,7 +2,6 @@
 ### High Performance Computing for Advanced Modeling and Simulation (HPCAMS 2018)
 
 ### A Session in [the ICNAAM conference](http://icnaam.org/)
-### 13~18 September, Sheraton hotel, Rhodes, Greece
 
 Multi-physics and multi-scale modeling and simulation (M&S ) are playing a more and more significant role in research fields such as nuclear energy, material, and hydrological simulation. The rapid development of high performance computing brings great opportunities to M&S. However, there are enormous challenges to make the most of high performance computation capabilities especially the upcoming Exascale supercomputers (a billion billion operations per second) in industry application fields.    
 This session focuses on novel mathematical modeling, parallel algorithms, high performance computing tools, virtualization, verification and validation of advanced M&S. The aim of this session is to bring together different researchers including domain experts, applied mathematicians and computer scientists to discuss this interdisciplinary field.
