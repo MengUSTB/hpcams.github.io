@@ -1,10 +1,11 @@
 
-### Welcome to High Performance Computing for Advanced Modeling and Simulation (HPCAMS2018)
-### A Session in the International Conference of Numerical Analysis and Applied Mathematics 2018
+### Welcome to High Performance Computing for Advanced Modeling and Simulation (HPCAMS 2018)
+### A Session in [the ICNAAM conference website](http://icnaam.org/)
 
 Multi-physics and multi-scale modeling and simulation (M&S ) are playing a more and more significant role in research fields such as nuclear energy, material, and hydrological simulation. The rapid development of high performance computing brings great opportunities to M&S. However, there are enormous challenges to make the most of high performance computation capabilities especially the upcoming Exascale supercomputers (1018 floating point operations per second) in industry application fields.    
 This session focuses on novel mathematical modeling, parallel algorithms, high performance computing tools, virtualization, verification and validation of advanced M&S. The aim of this session is to bring together different researchers including domain experts, applied mathematicians and computer scientists to discuss this interdisciplinary field.
-## Topics:
+
+### Topics:
 - Data-driven mathematics and physical modeling for parallel simulations
 - Multi-scale and multi-physics modeling
 - Advanced numerical methods
@@ -17,7 +18,14 @@ This session focuses on novel mathematical modeling, parallel algorithms, high p
 -	Dig data
 -	Computer graphics and virtualization
 
+### Important dates:
+- Extended Abstracts (3-4 pages) deadline: July 08, 2018 
+- Notification to authors of acceptance: August 20, 2018
+- Session date: 13 September, 2018
+
+### Guidelines for the preparation of a paper
+General Guidelines, [template and style files can be found here] (https://aip.scitation.org/apc/authors/preppapers)
 
 ### More information or Contact
 
-For more information:Check out  [the ICNAAM conference website](http://icnaam.org/) or contac wangxianmeng@xs.ustb.edu.cn.
+For more information: Check out  [the ICNAAM conference website](http://icnaam.org/) or contact wangxianmeng@xs.ustb.edu.cn.
