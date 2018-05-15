@@ -1,13 +1,9 @@
-## Welcome to High Performance Computing for Advanced Modeling and Simulation (HPCAMS2018)
+#Welcome to High Performance Computing for Advanced Modeling and Simulation (HPCAMS2018)
+##A Session in the International Conference of Numerical Analysis and Applied Mathematics
 
-You can use the [editor on GitHub](https://github.com/hpcams/hpcams.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Multi-physics and multi-scale modeling and simulation (M&S ) are playing a more and more significant role in research fields such as nuclear energy, material, and hydrological simulation. The rapid development of high performance computing brings great opportunities to M&S. However, there are enormous challenges to make the most of high performance computation capabilities especially the upcoming Exascale supercomputers (1018 floating point operations per second) in industry application fields.    
 This session focuses on novel mathematical modeling, parallel algorithms, high performance computing tools, virtualization, verification and validation of advanced M&S. The aim of this session is to bring together different researchers including domain experts, applied mathematicians and computer scientists to discuss this interdisciplinary field.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### A Session in the International Conference of Numerical Analysis and Applied Mathematics
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
