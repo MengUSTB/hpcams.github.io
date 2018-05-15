@@ -8,6 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+Multi-physics and multi-scale modeling and simulation (M&S ) are playing a more and more significant role in research fields such as nuclear energy, material, and hydrological simulation. The rapid development of high performance computing brings great opportunities to M&S. However, there are enormous challenges to make the most of high performance computation capabilities especially the upcoming Exascale supercomputers (1018 floating point operations per second) in industry application fields.    
+This session focuses on novel mathematical modeling, parallel algorithms, high performance computing tools, virtualization, verification and validation of advanced M&S. The aim of this session is to bring together different researchers including domain experts, applied mathematicians and computer scientists to discuss this interdisciplinary field.
+
 ```markdown
 Syntax highlighted code block
 
@@ -15,7 +18,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Bulleted Data-driven mathematics and physical modeling for parallel simulations
+- Bulleted multi-scale and multi-physics modeling
 - List
 
 1. Numbered
