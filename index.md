@@ -1,37 +1,22 @@
 
-## Welcome to High Performance Computing for Advanced Modeling and Simulation (HPCAMS2018)
-## A Session in the International Conference of Numerical Analysis and Applied Mathematics
-### More information or Contact
+### Welcome to High Performance Computing for Advanced Modeling and Simulation (HPCAMS2018)
+### A Session in the International Conference of Numerical Analysis and Applied Mathematics 2018
 
 Multi-physics and multi-scale modeling and simulation (M&S ) are playing a more and more significant role in research fields such as nuclear energy, material, and hydrological simulation. The rapid development of high performance computing brings great opportunities to M&S. However, there are enormous challenges to make the most of high performance computation capabilities especially the upcoming Exascale supercomputers (1018 floating point operations per second) in industry application fields.    
 This session focuses on novel mathematical modeling, parallel algorithms, high performance computing tools, virtualization, verification and validation of advanced M&S. The aim of this session is to bring together different researchers including domain experts, applied mathematicians and computer scientists to discuss this interdisciplinary field.
 ## Topics:
-- Bulleted Data-driven mathematics and physical modeling for parallel simulations
-1. ff
-- list  ff
+- Data-driven mathematics and physical modeling for parallel simulations
+- Multi-scale and multi-physics modeling
+- Advanced numerical methods
+-	Performance modeling and auto-tuning methods
+-	High Performance Computing (HPC)
+-	Parallel techniques and hybrid programming
+-	Scalable algorithms and advanced computational techniques
+-	Advanced software engineering
+-	Verification and validation
+-	Dig data
+-	Computer graphics and virtualization
 
-```markdown
-Syntax highlighted code block
-
-# Header 1 Rhodes, Greece, 13~18 Septenber, 2018
-## Header 2
-### Header 3
-
-- Bulleted Data-driven mathematics and physical modeling for parallel simulations
-- Bulleted multi-scale and multi-physics modeling
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hpcams/hpcams.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### More information or Contact
 
