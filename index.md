@@ -26,7 +26,7 @@ This session focuses on novel mathematical modeling, parallel algorithms, high p
 
 ### Guidelines for the preparation of a paper
 General Guidelines [template and style files can be found here](https://aip.scitation.org/apc/authors/preppapers)
-Your extended abstracts(in PDF or doc format) is required to be submitted [via the conference system EasyChair]( https://easychair.org/cfp/HPCAMS2018)
+Your extended abstracts(in PDF or doc format) is required to be submitted [via the conference system EasyChair]( https://easychair.org/conferences/?conf=hpcams2018)
 
 ### More information or Contact
 
